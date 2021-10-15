@@ -26,7 +26,10 @@
     "webpack-cli": "^4.9.0"
   },
   "dependencies": {
+    "@codemirror/state": "^0.19.2",
+    "@codemirror/view": "^0.19.9",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "rodemirror": "^1.6.3"
   }
 }
